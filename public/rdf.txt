@@ -1,0 +1,9 @@
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasId> "1" .
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasNama> "Salim Arizi" .
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasFoto> "foto.png" .
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasProdi> "Teknik Informatika" .
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasFakultas> "Teknologi Informasi" .
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasUniversitas> "Universitas Kristen Maranatha" .
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasCreated_at> "2021-04-26 15:43:29" .
+<http://www.praktikum.com/maranatha/1872054> <http://www.praktikum.com/maranatha#hasUpdated_at> "2021-04-26 15:43:32" .
+

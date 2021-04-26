@@ -26,3 +26,8 @@ Route::put('users/{user_id}', 'HomeController@update');
 Route::get('users/{user_id}/delete', 'HomeController@destroy');
 
 Route::get('rss', 'HomeController@rss');
+
+Route::get('students', 'StudentController@index');
+Route::get('students/readall', 'StudentController@readall');
+Route::get('students/rss', 'StudentController@rss');
+Route::get('students/rdf', 'StudentController@rdf');
